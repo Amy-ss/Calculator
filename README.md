@@ -1,6 +1,6 @@
 Calculator
 
-https://amy-ss.github.io/AscentAcademy_Calculator/
+https://amy-ss.github.io/Calculator/
 
 
 Description
